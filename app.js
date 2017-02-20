@@ -1,6 +1,4 @@
-//Assignment 2
-//COMP2406
-//Radu Molea (100992298)
+//Author: Radu Molea
 
 
 var http = require('http');
