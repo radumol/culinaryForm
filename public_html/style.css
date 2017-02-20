@@ -1,0 +1,25 @@
+
+body{
+	background-color:#333;
+	color:#8cc;
+}
+
+h1{
+	text-shadow:3px 3px #000;
+}
+
+#checkmark{
+	color: green;
+	position: absolute;
+    left: 200px;
+}
+
+#view{
+	background-color:   #33e3ff;
+}
+
+#update{
+	background-color:   #DAF7A6 ;
+}
+
+
